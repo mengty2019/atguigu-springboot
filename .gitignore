@@ -1,0 +1,3 @@
+# Project exclude paths
+/spring-boot-01-helloworld/target/
+/spring-boot-01-helloworld-quick/target/

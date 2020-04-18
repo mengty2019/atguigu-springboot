@@ -1,0 +1,36 @@
+[INFO ] 2019-12-15 23:16:39 [main] c.a.s.SpringBoot03LoggingApplication - Starting SpringBoot03LoggingApplication on DESKTOP-TS23MN1 with PID 132536 (D:\dev\atguigu-springboot\spring-boot-03-logging\target\classes started by Administrator in D:\dev\atguigu-springboot\spring-boot-03-logging)
+[INFO ] 2019-12-15 23:16:39 [main] c.a.s.SpringBoot03LoggingApplication - The following profiles are active: dev
+[INFO ] 2019-12-15 23:16:39 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2019-12-15 23:16:39 [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2019-12-15 23:16:39 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 2019-12-15 23:16:39 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+[INFO ] 2019-12-15 23:16:39 [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2019-12-15 23:16:39 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1530 ms
+[INFO ] 2019-12-15 23:16:39 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-12-15 23:16:39 [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2019-12-15 23:16:39 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2019-12-15 23:16:39 [main] c.a.s.SpringBoot03LoggingApplication - Started SpringBoot03LoggingApplication in 4.249 seconds (JVM running for 6.505)
+[INFO ] 2019-12-15 23:17:18 [main] c.a.s.SpringBoot03LoggingApplicationTests - Starting SpringBoot03LoggingApplicationTests on DESKTOP-TS23MN1 with PID 133576 (started by Administrator in D:\dev\atguigu-springboot\spring-boot-03-logging)
+[INFO ] 2019-12-15 23:17:18 [main] c.a.s.SpringBoot03LoggingApplicationTests - The following profiles are active: dev
+[INFO ] 2019-12-15 23:17:18 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-12-15 23:17:18 [main] c.a.s.SpringBoot03LoggingApplicationTests - Started SpringBoot03LoggingApplicationTests in 3.648 seconds (JVM running for 5.317)
+[INFO ] 2019-12-15 23:17:18 [main] c.a.s.SpringBoot03LoggingApplicationTests - 这是info日志
+[INFO ] 2019-12-15 23:17:18 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-12-15 23:19:14 [main] c.a.s.SpringBoot03LoggingApplicationTests - Starting SpringBoot03LoggingApplicationTests on DESKTOP-TS23MN1 with PID 132632 (started by Administrator in D:\dev\atguigu-springboot\spring-boot-03-logging)
+[INFO ] 2019-12-15 23:19:14 [main] c.a.s.SpringBoot03LoggingApplicationTests - The following profiles are active: dev
+[INFO ] 2019-12-15 23:19:14 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-12-15 23:19:14 [main] c.a.s.SpringBoot03LoggingApplicationTests - Started SpringBoot03LoggingApplicationTests in 4.032 seconds (JVM running for 5.401)
+[INFO ] 2019-12-15 23:19:14 [main] c.a.s.SpringBoot03LoggingApplicationTests - 这是info日志
+[INFO ] 2019-12-15 23:19:14 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-12-15 23:20:34 [main] c.a.s.SpringBoot03LoggingApplicationTests - Starting SpringBoot03LoggingApplicationTests on DESKTOP-TS23MN1 with PID 132332 (started by Administrator in D:\dev\atguigu-springboot\spring-boot-03-logging)
+[INFO ] 2019-12-15 23:20:34 [main] c.a.s.SpringBoot03LoggingApplicationTests - The following profiles are active: dev
+[INFO ] 2019-12-15 23:20:34 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-12-15 23:20:34 [main] c.a.s.SpringBoot03LoggingApplicationTests - Started SpringBoot03LoggingApplicationTests in 3.742 seconds (JVM running for 5.274)
+[INFO ] 2019-12-15 23:20:34 [main] c.a.s.SpringBoot03LoggingApplicationTests - 这是info日志
+[INFO ] 2019-12-15 23:20:34 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-12-15 23:24:55 [main] c.a.s.SpringBoot03LoggingApplicationTests - Starting SpringBoot03LoggingApplicationTests on DESKTOP-TS23MN1 with PID 134836 (started by Administrator in D:\dev\atguigu-springboot\spring-boot-03-logging)
+[INFO ] 2019-12-15 23:24:55 [main] c.a.s.SpringBoot03LoggingApplicationTests - The following profiles are active: dev
+[INFO ] 2019-12-15 23:24:55 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-12-15 23:24:55 [main] c.a.s.SpringBoot03LoggingApplicationTests - Started SpringBoot03LoggingApplicationTests in 3.534 seconds (JVM running for 4.921)
+[INFO ] 2019-12-15 23:24:55 [main] c.a.s.SpringBoot03LoggingApplicationTests - 这是info日志
+[INFO ] 2019-12-15 23:24:55 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'

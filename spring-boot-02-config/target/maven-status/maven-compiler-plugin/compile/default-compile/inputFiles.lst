@@ -1,0 +1,6 @@
+/usr/local/idea-program/spring-boot-02-config/src/main/java/com/atguigu/springboot/bean/Person.java
+/usr/local/idea-program/spring-boot-02-config/src/main/java/com/atguigu/springboot/controller/HelloController.java
+/usr/local/idea-program/spring-boot-02-config/src/main/java/com/atguigu/springboot/bean/Dog.java
+/usr/local/idea-program/spring-boot-02-config/src/main/java/com/atguigu/springboot/service/HelloService.java
+/usr/local/idea-program/spring-boot-02-config/src/main/java/com/atguigu/springboot/SpringBoot02ConfigApplication.java
+/usr/local/idea-program/spring-boot-02-config/src/main/java/com/atguigu/springboot/config/MyAppConfig.java
